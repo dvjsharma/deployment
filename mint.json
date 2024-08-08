@@ -27,8 +27,9 @@
   },
   "tabs": [
     {
-      "name": "API Reference",
-      "url": "api-reference"
+      "name": "API Documentation",
+      "url": "api-reference",
+      "openapi": "/documentation/openapi.yaml"
     }
   ],
   "anchors": [
